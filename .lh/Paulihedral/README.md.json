@@ -1,0 +1,46 @@
+{
+    "sourceFile": "Paulihedral/README.md",
+    "activeCommit": 0,
+    "commits": [
+        {
+            "activePatchIndex": 7,
+            "patches": [
+                {
+                    "date": 1670208981397,
+                    "content": "Index: \n===================================================================\n--- \n+++ \n"
+                },
+                {
+                    "date": 1670209364661,
+                    "content": "Index: \n===================================================================\n--- \n+++ \n@@ -1,1 +1,2 @@\n-# \n\\ No newline at end of file\n+# Note\r\n+This is the implementation of \n\\ No newline at end of file\n"
+                },
+                {
+                    "date": 1670209440198,
+                    "content": "Index: \n===================================================================\n--- \n+++ \n@@ -1,2 +1,2 @@\n # Note\r\n-This is the implementation of \n\\ No newline at end of file\n+This is the implementation of (*Paulihedral: A Generalized Block-Wise Compiler Optimization Framework For Quantum Simulation Kernels*)[]\n\\ No newline at end of file\n"
+                },
+                {
+                    "date": 1670209478754,
+                    "content": "Index: \n===================================================================\n--- \n+++ \n@@ -1,2 +1,2 @@\n # Note\r\n-This is the implementation of (*Paulihedral: A Generalized Block-Wise Compiler Optimization Framework For Quantum Simulation Kernels*)[]\n\\ No newline at end of file\n+This is the implementation of [*Paulihedral: A Generalized Block-Wise Compiler Optimization Framework For Quantum Simulation Kernels*]()\n\\ No newline at end of file\n"
+                },
+                {
+                    "date": 1670209550652,
+                    "content": "Index: \n===================================================================\n--- \n+++ \n@@ -1,2 +1,2 @@\n # Note\r\n-This is the implementation of [*Paulihedral: A Generalized Block-Wise Compiler Optimization Framework For Quantum Simulation Kernels*]()\n\\ No newline at end of file\n+This is the implementation of [*Paulihedral: A Generalized Block-Wise Compiler Optimization Framework For Quantum Simulation Kernels*](https://arxiv.org/abs/2109.03371) circuit optimization algorithm, copied from \n\\ No newline at end of file\n"
+                },
+                {
+                    "date": 1670209609119,
+                    "content": "Index: \n===================================================================\n--- \n+++ \n@@ -1,2 +1,2 @@\n # Note\r\n-This is the implementation of [*Paulihedral: A Generalized Block-Wise Compiler Optimization Framework For Quantum Simulation Kernels*](https://arxiv.org/abs/2109.03371) circuit optimization algorithm, copied from \n\\ No newline at end of file\n+This is the implementation of [*Paulihedral: A Generalized Block-Wise Compiler Optimization Framework For Quantum Simulation Kernels*](https://arxiv.org/abs/2109.03371) circuit optimization algorithm, copied from [![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.5780204.svg)](https://doi.org/10.5281/zenodo.5780204).\n\\ No newline at end of file\n"
+                },
+                {
+                    "date": 1670209653211,
+                    "content": "Index: \n===================================================================\n--- \n+++ \n@@ -1,2 +1,2 @@\n # Note\r\n-This is the implementation of [*Paulihedral: A Generalized Block-Wise Compiler Optimization Framework For Quantum Simulation Kernels*](https://arxiv.org/abs/2109.03371) circuit optimization algorithm, copied from [![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.5780204.svg)](https://doi.org/10.5281/zenodo.5780204).\n\\ No newline at end of file\n+This is the implementation of [*Paulihedral: A Generalized Block-Wise Compiler Optimization Framework For Quantum Simulation Kernels*](https://arxiv.org/abs/2109.03371) circuit optimization algorithm, copied from [![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.5780204.svg)](https://doi.org/10.5281/zenodo.5780204). We use it for comparing\n\\ No newline at end of file\n"
+                },
+                {
+                    "date": 1670209679494,
+                    "content": "Index: \n===================================================================\n--- \n+++ \n@@ -1,2 +1,2 @@\n # Note\r\n-This is the implementation of [*Paulihedral: A Generalized Block-Wise Compiler Optimization Framework For Quantum Simulation Kernels*](https://arxiv.org/abs/2109.03371) circuit optimization algorithm, copied from [![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.5780204.svg)](https://doi.org/10.5281/zenodo.5780204). We use it for comparing\n\\ No newline at end of file\n+This is the implementation of [*Paulihedral: A Generalized Block-Wise Compiler Optimization Framework For Quantum Simulation Kernels*](https://arxiv.org/abs/2109.03371) circuit optimization algorithm, copied from [![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.5780204.svg)](https://doi.org/10.5281/zenodo.5780204). We use it for performance comparison.\n\\ No newline at end of file\n"
+                }
+            ],
+            "date": 1670208981397,
+            "name": "Commit-0",
+            "content": "# "
+        }
+    ]
+}

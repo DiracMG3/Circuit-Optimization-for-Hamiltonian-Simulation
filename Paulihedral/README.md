@@ -1,0 +1,2 @@
+# Note
+This is the implementation of [*Paulihedral: A Generalized Block-Wise Compiler Optimization Framework For Quantum Simulation Kernels*](https://arxiv.org/abs/2109.03371) circuit optimization algorithm, copied from [![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.5780204.svg)](https://doi.org/10.5281/zenodo.5780204). We use it for performance comparison.
